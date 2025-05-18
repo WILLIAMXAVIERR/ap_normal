@@ -9,6 +9,8 @@ Atividade Ativa
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
+git checkout dev
+
 pip install pandas matplotlib seaborn
 
 python iris_analysis.py
