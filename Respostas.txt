@@ -1,0 +1,22 @@
+A - Sim, eu acho que Setosa- gráficoEla foi removida para facilitar nossos gráficos, principalmente porque as pétalas desta árvore são menos relacionadas a outras espécies. Não há gráficos de dispersão, mas a separação é visível. Já Versicolor e Virginica têm meditações um pouco mais próximas, mas mesmo assim dá pra notar uma certa diferença entre elas.
+
+B - Temos atributos que diferem de espécie para espécie dependendo do tamanho da pétala (petal_length) e do comprimento da pétala (petal_width) . Você tem que prestar atenção aos nossos gráficos, pois a maioria deles tem uma separação clara entre as espécies, principalmente em Setosa. Além disso, eles também apresentam uma forte correlação entre si, o que também reforça que é bom usar vários modelos.
+
+C - Sim. Há breposição entre Versicolor e Virginica nossos grafismos de pétalas e não foram distribuídos nas sépalas. Setosa é para separar nossos próprios gráficos.
+
+D - É escrito principalmente como colunas:
+
+petal_length
+
+petal_width
+
+Esses atributos podem ser discriminatórios, de acordo com as evidências:
+
+Esta separação visual clara não possui gráfico de dispersão;
+
+Existe uma forte correlação entre se ;
+
+Pode ser colocado entre as classes.
+
+Como o segundo ponto depende do modelo, sepal_lengthtambém podemos considerá-lo, mas sepal_widthesta será nossa lista informativa.
+
